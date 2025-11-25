@@ -11,9 +11,8 @@ Bogotá, Colombia · <a href="mailto:eduintarazonaf@gmail.com">eduintarazonaf@gm
 
 ## 🚀 Sobre mí  
 Soy Desarrollador Full Stack con enfoque en **Frontend moderno**, creando interfaces rápidas, consistentes y pensadas para escalar.  
-Mi especialidad es trabajar con **React, Next.js, TypeScript y Node.js**, integrando buenas prácticas, clean code y optimización de rendimiento.
-
-Me apasiona la **inteligencia artificial**, la automatización y construir productos digitales centrados en el usuario, con impacto real en negocio.
+Mi especialidad es trabajar con **React, Next.js, TypeScript y Node.js**, integrando buenas prácticas, clean code y optimización de rendimiento.  
+Me apasiona la **inteligencia artificial**, la automatización y construir productos digitales centrados en el usuario.
 
 ---
 
@@ -21,30 +20,30 @@ Me apasiona la **inteligencia artificial**, la automatización y construir produ
 
 ### <strong>Desarrollador Front-End — 4webs (Abr 2024 – Jun 2025)</strong>
 - Construcción de interfaces modernas usando **React, Next.js, Tailwind y TypeScript**.  
-- Mejoras de rendimiento alcanzando **30% menos tiempo de carga** en proyectos clave.  
-- Implementación de diseños de Figma a componentes escalables y reutilizables.  
+- Mejoras de rendimiento con **30% menos tiempo de carga**.  
+- Implementación de diseños de Figma a componentes reutilizables.  
 - Integración de APIs REST y optimización de flujo de datos.
 
 ### <strong>Desarrollador WordPress — Freelance (Ago 2022 – Abr 2024)</strong>
-- Creación de sitios web profesionales con **temas y plugins personalizados**.  
-- Optimización en performance, seguridad y SEO técnico.  
-- Automatización con PHP, JavaScript y APIs externas.
+- Desarrollo completo de sitios web con **temas y plugins personalizados**.  
+- Optimización de performance, seguridad y SEO técnico.  
+- Integración de APIs externas y automatización con PHP/JS.
 
 ### <strong>Supervisor de Operaciones / Automatización — Webhelp (Feb 2020 – Jun 2022)</strong>
-- Automatización de procesos con **Power Automate, Power Apps y Power BI**.  
-- Dashboards para análisis de KPIs y toma de decisiones.  
-- Desarrollo de herramientas internas low-code para productividad operativa.
+- Automatización con **Power Automate, Power Apps y Power BI**.  
+- Creación de dashboards para análisis de KPIs.  
+- Desarrollo de herramientas internas low-code para productividad.
 
 ---
 
 ## 🔥 Proyectos Destacados
 
 ### 🛒 **Technology Store — E-commerce Front-End**
-E-commerce moderno construido con Next.js y Tailwind.  
+E-commerce moderno con Next.js + Tailwind.  
 **Stack:** React · Next.js · TypeScript · Tailwind · Figma · Vercel  
 
 ### 🐾 **Plataforma de Adopción de Mascotas — Henry Bootcamp (2025)**
-Aplicación Full Stack con autenticación, dashboards y pagos con Stripe.  
+Aplicación Full Stack con auth, dashboard y pagos con Stripe.  
 **Stack:** React · Next.js · Node.js · Express · Prisma · PostgreSQL · Tailwind
 
 ---
@@ -52,31 +51,63 @@ Aplicación Full Stack con autenticación, dashboards y pagos con Stripe.
 ## 🧠 Tecnologías
 
 ### Lenguajes
-JavaScript (ES6+), TypeScript, PHP, SQL
+<p>
+<img src="https://skillicons.dev/icons?i=js" height="35" />
+<img src="https://skillicons.dev/icons?i=ts" height="35" />
+<img src="https://skillicons.dev/icons?i=php" height="35" />
+<img src="https://skillicons.dev/icons?i=postgres" height="35" />
+<img src="https://skillicons.dev/icons?i=mysql" height="35" />
+<img src="https://skillicons.dev/icons?i=mongodb" height="35" />
+</p>
 
-### Frameworks y Librerías
-React, Next.js, Node.js, Express, NestJS, WordPress, Tailwind, Bootstrap
+### Frameworks & Librerías
+<p>
+<img src="https://skillicons.dev/icons?i=react" height="35" />
+<img src="https://skillicons.dev/icons?i=nextjs" height="35" />
+<img src="https://skillicons.dev/icons?i=nodejs" height="35" />
+<img src="https://skillicons.dev/icons?i=express" height="35" />
+<img src="https://skillicons.dev/icons?i=nestjs" height="35" />
+<img src="https://skillicons.dev/icons?i=wordpress" height="35" />
+<img src="https://skillicons.dev/icons?i=tailwind" height="35" />
+<img src="https://skillicons.dev/icons?i=bootstrap" height="35" />
+</p>
 
-### Herramientas
-Power BI, Power Apps, Power Automate, Google Analytics, Figma, Excel
+### Herramientas y Plataformas
+<p>
+<img src="https://skillicons.dev/icons?i=figma" height="35" />
+<img src="https://skillicons.dev/icons?i=postman" height="35" />
+<img src="https://skillicons.dev/icons?i=vercel" height="35" />
+<img src="https://skillicons.dev/icons?i=vite" height="35" />
+<img src="https://skillicons.dev/icons?i=bash" height="35" />
+<img src="https://skillicons.dev/icons?i=linux" height="35" />
+</p>
 
-### Bases de Datos
-PostgreSQL, MongoDB, MySQL
+### Automatización / Low-Code
+<p>
+<img src="https://skillicons.dev/icons?i=azure" height="35" />
+<img src="https://skillicons.dev/icons?i=powerbi" height="35" />
+</p>
 
-### DevOps / Infraestructura
-Git, GitHub Actions, GitLab, Docker, cPanel, Plesk
+### DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=git" height="35" />
+<img src="https://skillicons.dev/icons?i=github" height="35" />
+<img src="https://skillicons.dev/icons?i=gitlab" height="35" />
+<img src="https://skillicons.dev/icons?i=docker" height="35" />
+<img src="https://skillicons.dev/icons?i=nginx" height="35" />
+</p>
 
 ---
 
 ## 📚 Educación
-- **Full Stack Web Developer** — Henry Bootcamp (2024 – 2025)  
+- **Full Stack Web Developer** — Henry Bootcamp (2024–2025)  
 - **Ingeniero de Sistemas** — UNEFA (2016)
 
 ### 📘 Cursos Complementarios
-- Power BI para Dashboards — Crehana  
+- Power BI — Crehana  
 - JavaScript Moderno — Udemy  
-- React y TypeScript — Udemy  
-- Bootstrap 5 y SASS — Udemy  
+- React + TypeScript — Udemy  
+- Bootstrap + SASS — Udemy  
 
 ---
 
@@ -85,11 +116,4 @@ Git, GitHub Actions, GitLab, Docker, cPanel, Plesk
 <a href="https://linkedin.com/in/eduin-tarazona-b5b86b153" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" />
 </a>
-</p>
-
----
-
-## 🛠 Lenguajes y Herramientas
-<p>
-[agrega aquí tus íconos de skillicons.dev]
 </p>
