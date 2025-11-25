@@ -1,53 +1,95 @@
 <h1 align="center">👋 Hola, soy Eduin Tarazona</h1>
-<h3 align="center">Ingeniero de Sistemas y Desarrollador Full Stack especializado en Front-End (React, Next.js, TypeScript)</h3>
+<h3 align="center">Full Stack Developer (Front-End Oriented) · JavaScript · TypeScript · React · Next.js · Tailwind · Node.js · WordPress · AI</h3>
 
-- 🔭 Actualmente estoy trabajando en **Aplicaciones Web Modernas con React y TypeScript**  [Ver proyectos](https://github.com/EduinTarazona)
-
-- 🌱 Actualmente estoy aprendiendo **NestJS, arquitectura limpia, testing con Cypress y automatización con Power Automate**
-
-- 👯 Busco colaborar en **proyectos de desarrollo web enfocados en UX/UI, rendimiento y arquitectura moderna de front-end**
-
-- 🤝 Busco apoyo en **optimización de pipelines y despliegues automatizados con Docker y GitHub Actions**
-
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/EduinTarazona](https://github.com/EduinTarazona)
-
-- 💬 Pregúntame sobre **React, Next.js, TypeScript, Tailwind CSS, APIs REST y buenas prácticas de desarrollo**
-
-- 📫 Cómo contactarme: **eduintarazonaf@gmail.com**
-
-- 📄 Conoce más sobre mi experiencia en [LinkedIn](https://www.linkedin.com/in/eduin-tarazona-b5b86b153/)
-
-- ⚡ Dato curioso: **Disfruto crear interfaces limpias y funcionales, optimizar la experiencia del usuario y aprender nuevas tecnologías.**
-
----
-
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/eduin-tarazona-b5b86b153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduin-tarazona-b5b86b153" height="30" width="40" /></a>
+<p align="center">
+Bogotá, Colombia · <a href="mailto:eduintarazonaf@gmail.com">eduintarazonaf@gmail.com</a> · 
+<a href="https://www.linkedin.com/in/eduin-tarazona-b5b86b153/">LinkedIn</a> ·
+<a href="https://github.com/EduinTarazona">GitHub</a>
 </p>
 
 ---
 
-<h3 align="left">Lenguajes y Herramientas:</h3>
-<p align="left"> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
+## 🚀 Sobre mí  
+Soy Desarrollador Full Stack con enfoque en **Frontend moderno**, creando interfaces rápidas, consistentes y pensadas para escalar.  
+Mi especialidad es trabajar con **React, Next.js, TypeScript y Node.js**, integrando buenas prácticas, clean code y optimización de rendimiento.
+
+Me apasiona la **inteligencia artificial**, la automatización y construir productos digitales centrados en el usuario, con impacto real en negocio.
+
+---
+
+## 💼 Experiencia Relevante
+
+### <strong>Desarrollador Front-End — 4webs (Abr 2024 – Jun 2025)</strong>
+- Construcción de interfaces modernas usando **React, Next.js, Tailwind y TypeScript**.  
+- Mejoras de rendimiento alcanzando **30% menos tiempo de carga** en proyectos clave.  
+- Implementación de diseños de Figma a componentes escalables y reutilizables.  
+- Integración de APIs REST y optimización de flujo de datos.
+
+### <strong>Desarrollador WordPress — Freelance (Ago 2022 – Abr 2024)</strong>
+- Creación de sitios web profesionales con **temas y plugins personalizados**.  
+- Optimización en performance, seguridad y SEO técnico.  
+- Automatización con PHP, JavaScript y APIs externas.
+
+### <strong>Supervisor de Operaciones / Automatización — Webhelp (Feb 2020 – Jun 2022)</strong>
+- Automatización de procesos con **Power Automate, Power Apps y Power BI**.  
+- Dashboards para análisis de KPIs y toma de decisiones.  
+- Desarrollo de herramientas internas low-code para productividad operativa.
+
+---
+
+## 🔥 Proyectos Destacados
+
+### 🛒 **Technology Store — E-commerce Front-End**
+E-commerce moderno construido con Next.js y Tailwind.  
+**Stack:** React · Next.js · TypeScript · Tailwind · Figma · Vercel  
+
+### 🐾 **Plataforma de Adopción de Mascotas — Henry Bootcamp (2025)**
+Aplicación Full Stack con autenticación, dashboards y pagos con Stripe.  
+**Stack:** React · Next.js · Node.js · Express · Prisma · PostgreSQL · Tailwind
+
+---
+
+## 🧠 Tecnologías
+
+### Lenguajes
+JavaScript (ES6+), TypeScript, PHP, SQL
+
+### Frameworks y Librerías
+React, Next.js, Node.js, Express, NestJS, WordPress, Tailwind, Bootstrap
+
+### Herramientas
+Power BI, Power Apps, Power Automate, Google Analytics, Figma, Excel
+
+### Bases de Datos
+PostgreSQL, MongoDB, MySQL
+
+### DevOps / Infraestructura
+Git, GitHub Actions, GitLab, Docker, cPanel, Plesk
+
+---
+
+## 📚 Educación
+- **Full Stack Web Developer** — Henry Bootcamp (2024 – 2025)  
+- **Ingeniero de Sistemas** — UNEFA (2016)
+
+### 📘 Cursos Complementarios
+- Power BI para Dashboards — Crehana  
+- JavaScript Moderno — Udemy  
+- React y TypeScript — Udemy  
+- Bootstrap 5 y SASS — Udemy  
+
+---
+
+## 🌐 Conecta conmigo
+<p>
+<a href="https://linkedin.com/in/eduin-tarazona-b5b86b153" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" />
+</a>
+</p>
+
+---
+
+## 🛠 Lenguajes y Herramientas
+<p>
+[agrega aquí tus íconos de skillicons.dev]
 </p>
